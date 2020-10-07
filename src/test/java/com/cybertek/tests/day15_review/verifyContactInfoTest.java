@@ -53,6 +53,7 @@ public class verifyContactInfoTest extends TestBase {
         Assert.assertEquals(contactInfoPage.phone.getText(),"+18982323434","verify phone number");
 
         extentLogger.pass("PASSED");
+        //test
 
     }
 
